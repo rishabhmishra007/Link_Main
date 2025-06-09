@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rishabhmishra007/Link-Client.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rishabhmishra007/Link-Server.git
