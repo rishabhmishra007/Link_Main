@@ -56,30 +56,20 @@ or
 
 ## Technologies 
 
-<div align="left">
-  <img width="12" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg' height="40" alt="css3 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original-wordmark.svg" height="40" alt="react-logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="node-logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" height="40" alt="express-logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss-logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" height="40" alt="redux-logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/materialui/materialui-plain.svg" height="40" alt="maeterial ui"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original-wordmark.svg" height="40" alt="socketio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original-wordmark.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/google/google-original-wordmark.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="google logo"  />
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" style="height: 32px; width: auto;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original-wordmark.svg" style="height: 32px; width: auto;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 32px; width: auto;" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" style="height: 32px; width: auto;" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-original.svg" style="height: 32px; width: auto;" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" style="height: 32px; width: auto;" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/materialui/materialui-plain.svg" style="height: 32px; width: auto;" alt="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/socketio/socketio-original-wordmark.svg" style="height: 32px; width: auto;" alt="Socket.io" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original-wordmark.svg" style="height: 32px; width: auto;" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/google/google-original-wordmark.svg" style="height: 32px; width: auto;" alt="Google" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height: 32px; width: auto;" alt="AWS" />
 </div>
+
 
 <h2>Summary of Project</h2>
 The LINK project was developed with the goal of addressing the growing demand for a secure, real-time, and user-friendly social media platform. In today’s digital age, users often face challenges with maintaining secure communication, content sharing, and real- time interaction across multiple platforms. LINK was designed as a one-stop solution to streamline these essential functions into a unified system. By leveraging modern technologies such as the MERN stack (MongoDB, Express.js, React.js, Node.js), along with Socket.IO for real-time messaging and Hugging Face API for sentiment analysis, the platform offers a dynamic social media experience.
